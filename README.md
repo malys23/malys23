@@ -2,7 +2,7 @@
  
 Software engineer (B.S., Sam Houston State University) with a B.S. in Industrial Engineering (Texas A&M University) and procurement and logistics experience at Exiros. I build full-stack and machine learning projects, with a focus on supply-chain technology. AWS Certified Cloud Practitioner.
  
-Open to junior full-stack, machine learning and supply-chain technology roles.
+Open to full-stack, machine learning and supply-chain technology roles.
  
 ## Projects
  
